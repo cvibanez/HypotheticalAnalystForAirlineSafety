@@ -1,0 +1,15 @@
+Data Sources:
+https://catalog.data.gov/dataset/accidents-and-accident-rates-by-ntsb-classification-1995-through-2014-for-u-s-air-carriers
+https://catalog.data.gov/dataset/accidents-fatalities-and-rates-1995-through-2014-for-u-s-air-carriers-operating-under-14-c-2e5ec
+https://cdan.nhtsa.gov/tsftables/tsfar.htm#
+
+
+Research References:
+
+Silver, Nate.  "Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?"  https://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/
+
+Difference Engine: Up, up and away. Retrieved from https://www.economist.com/babbage/2013/01/07/difference-engine-up-up-and-away
+
+
+
+

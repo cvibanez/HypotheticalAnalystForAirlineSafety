@@ -1,0 +1,23 @@
+Type,Sample Size,Sum (Millions),Percent
+Walk,81288,38947,10.5
+Bicycle,8034,3575,1
+Car,396931,156940,42.3
+SUV,229466,84659,22.8
+Van,60463,27857,7.5
+Pickup truck,108303,35115,9.5
+Golf cart / Segway,826,186,0.1
+Motorcycle / Moped,2088,835,0.2
+"RV (motor home, ATV, snowmobile)",814,212,0.1
+School bus,11313,7038,1.9
+Public or commuter bus,6616,5300,1.4
+Paratransit / Dial-a-ride,624,393,0.1
+Private / Charter / Tour / Shuttle bus,1581,814,0.2
+"City-to-city bus (Greyhound, Megabus)",120,69,0
+Amtrak / Commuter rail,1148,794,0.2
+Subway / elevated / light rail / street car,3326,3350,0.9
+Taxi / limo (including Uber / Lyft),2813,1849,0.5
+Rental car (Including Zipcar / Car2Go),2006,780,0.2
+Airplane,1823,639,0.2
+Boat / ferry / water taxi,458,176,0
+Something Else,3515,1617,0.4
+All,923556,371145,100
