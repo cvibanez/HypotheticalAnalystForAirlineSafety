@@ -10,13 +10,13 @@ This project was for a data presentation and visualization course at Bellevue Un
 * Tableau
 
 ### Data
-*https://catalog.data.gov/dataset/accidents-and-accident-rates-by-ntsb-classification-1995-through-2014-for-u-s-air-carriers
-*https://catalog.data.gov/dataset/accidents-fatalities-and-rates-1995-through-2014-for-u-s-air-carriers-operating-under-14-c-2e5ec
-*https://cdan.nhtsa.gov/tsftables/tsfar.htm#
-*https://www.bts.gov/content/average-annual-pmt-vmt-person-trips-and-trip-length-trip-purpose
-*https://www.bts.gov/content/personal-consumption-expenditures-transportation-subcategory
-*https://www.bts.dot.gov/content/summary-airline-time-performance-year-date-through-january-2017
-*https://nhts.ornl.gov/
+* https://catalog.data.gov/dataset/accidents-and-accident-rates-by-ntsb-classification-1995-through-2014-for-u-s-air-carriers
+* https://catalog.data.gov/dataset/accidents-fatalities-and-rates-1995-through-2014-for-u-s-air-carriers-operating-under-14-c-2e5ec
+* https://cdan.nhtsa.gov/tsftables/tsfar.htm#
+* https://www.bts.gov/content/average-annual-pmt-vmt-person-trips-and-trip-length-trip-purpose
+* https://www.bts.gov/content/personal-consumption-expenditures-transportation-subcategory
+* https://www.bts.dot.gov/content/summary-airline-time-performance-year-date-through-january-2017
+* https://nhts.ornl.gov/
 
 
 ### Visualization Techniques
